@@ -72,6 +72,8 @@ fetch_and_process_csv(csv_url, save_path)
 ###
 ![Screenshot from 2025-01-20 03-53-51](https://github.com/user-attachments/assets/7c16efb2-e7ef-4c4f-b3b6-2a9c1adfb41a)
 ###
+![Screenshot from 2025-01-20 04-00-07](https://github.com/user-attachments/assets/2d88d2b1-31fc-41a4-bf5a-4f0e911a3599)
+###
 ### Step 2: Import CSV into PostgreSQL
 - Once the CSV is processed and saved locally (/tmp/modified_books.csv), you can import it into PostgreSQL.
 
