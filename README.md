@@ -16,7 +16,9 @@ This project involves building a `Library Management System (LMS)` using Python 
 We used a publicly available CSV file from Omair31's GitHub repo that contains book data - https://github.com/Omair31/BooksCSV/blob/master/BooksCSV/books.csv. This data is processed and saved with a randomly assigned status of either Available or Issued.
 
 ###
-![Screenshot from 2025-01-20 03-52-09](https://github.com/user-attachments/assets/4fcc0c53-f3c8-442f-9373-598dbd88a29c)
+
+![Screenshot from 2025-01-20 03-57-42](https://github.com/user-attachments/assets/f4672a3c-c951-43f4-8cd7-ce4884727ff5)
+
 ###
 
 #### 2. Importing Data into PostgreSQL
