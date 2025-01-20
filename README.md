@@ -67,6 +67,9 @@ def fetch_and_process_csv(url, save_path):
 # Run the fetch and process function
 fetch_and_process_csv(csv_url, save_path)
 ```
+###
+![Screenshot from 2025-01-20 03-53-51](https://github.com/user-attachments/assets/7c16efb2-e7ef-4c4f-b3b6-2a9c1adfb41a)
+###
 ### Step 2: Import CSV into PostgreSQL
 - Once the CSV is processed and saved locally (/tmp/modified_books.csv), you can import it into PostgreSQL.
 
@@ -109,8 +112,10 @@ To view all books in the catalog, execute the following query:
 
 ```sql
 SELECT * FROM catalog;
-
 ```
+###
+
+###
 - This will return all the columns (bookid, title, authors, status) for every book in the catalog.
 ## 2. Search Books by Title or Author
 To search for books by title or author, use the following query:
