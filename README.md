@@ -1,5 +1,8 @@
 ## Library Management System with PostgreSQL Integration
 This project involves building a `Library Management System (LMS)` using Python and PostgreSQL. The application allows users to view, search, add, issue, return, and delete books, while the backend is powered by a PostgreSQL database. Additionally, we fetch a `CSV file` of books, process the data, and import it into PostgreSQL.
+###
+![Screenshot from 2025-01-20 03-51-26](https://github.com/user-attachments/assets/4d50bfa1-f4db-4348-b9df-234db9b70a06)
+###
 
 ### Features
 - `View Books`: Displays a list of all books in the library.
